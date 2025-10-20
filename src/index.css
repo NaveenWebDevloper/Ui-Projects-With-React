@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+#scroll-remove::-webkit-scrollbar {
+    width: 8px;
+
+}
